@@ -10,6 +10,7 @@ but our model contains only 1 LSTM layer.
 * matplotlib==3.0.0
 * pandas==0.18.1
 * sklearn==0.20.1
+* tensorflow==1.12.0
 * Keras==2.2.4
 
 ## Usage
@@ -27,5 +28,5 @@ https://www.renom.jp/notebooks/tutorial/time_series/lstm-anomalydetection/notebo
 [[3]] http://www.cs.ucr.edu/~eamonn/discords/
 
 [1]: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf
-[2]: https://www.renom.jp/ja/notebooks/tutorial/time_series/lstm-anomalydetection/notebook.html
+[2]: https://www.renom.jp/notebooks/tutorial/time_series/lstm-anomalydetection/notebook.html
 [3]: http://www.cs.ucr.edu/~eamonn/discords/
